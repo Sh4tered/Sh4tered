@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sh4tered
-- 👀 I’m interested in code
+- 👀 I’m interested in video games
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me...you don't.
